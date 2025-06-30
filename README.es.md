@@ -12,7 +12,7 @@ Estos desafíos te ayudarán a familiarizarte con las guías de programación m�
 ## 📝 Instrucciones
 
 1. Espera a que tu mentor abra [estas diapositivas](https://coding-guidelines-challenge.vercel.app).
-2. Intenta completar el desafío con toda la clase, y ten una discusión abierta y sugerencias.
+2. Intenta completar el desafío con toda la clase y ten una discusión abierta con sugerencias.
 3. Una vez que el desafío haya terminado, se dividen en grupos; tantos grupos como sea posible, mientras haya un mentor para cada grupo. Por ejemplo: Si hay 2 mentores en una clase de 10 estudiantes, tendremos 2 grupos de 5 estudiantes cada uno.
 4. Un estudiante a la vez abrirá sus códigos anteriores y comenzará a discutirlos con sus compañeros de clase.
 5. El mentor intervendrá según sea necesario para asegurarse de que el grupo se mantenga enfocado y en el camino correcto.
